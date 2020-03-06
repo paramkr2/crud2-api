@@ -54,7 +54,7 @@ app.post('/editDocument', editDocument );
 app.post('/removeDocument', removeDocument );
 
 
-app.listen( 2000, function(res){
+app.listen( process.env.PORT || 2000, function(res){
     console.log('Server running on port 2000');
 })
 

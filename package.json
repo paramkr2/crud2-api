@@ -2,7 +2,7 @@
   "build": "bower install && grunt build",
   "name": "crud2-api",
   "version": "1.0.0",
-  "description": "crud",
+  "description": "crud2 api ",
   "main": "index.js",
   "author": "param",
   "license": "ISC",
