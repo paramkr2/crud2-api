@@ -30,7 +30,7 @@ db = mongoose.connect('mongodb+srv://aman:amanpass@cluster0-mdkwp.mongodb.net/te
 var cors = require('cors')
 var corsOptions = {
   credentials:true,
-  origin: 'http://localhost:3000',
+  origin: 'https://paramkr2.github.io',
   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
 }
 
