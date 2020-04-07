@@ -8,12 +8,12 @@ For routing Express, database is mongo with mongoose, for testing mocha framewor
 
 ## Get Started 
 
-1.Clone this repo
-2.npm install to install all the required dependencies
-3.Install mongod, and repace the database url in mongod 
-4.npm run start to run the server 
+- Clone this repo
+- `npm install` to install all the required dependencies
+- Install mongod, and repace the database url in mongod 
+- `npm run` start to run the server 
 
 ## Tests 
 
-1.Make sure mongod is runny locally,
-2.npm run test to run the tests 
+- Make sure mongod is runny locally,
+- `npm run test` to run the tests 
